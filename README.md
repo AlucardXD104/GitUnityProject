@@ -1,1 +1,1 @@
-#progetto di esempio Git e Unity
+# Progetto di Esempio Git e Unity
